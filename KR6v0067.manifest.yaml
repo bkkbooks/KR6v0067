@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6v0067_001.yaml, hash: 'sha256:bab904e3cccc23a0cb81adcd254cc69f35fb138010479881945c42ce6520d016'}
+  - {seq: 1, filename: KR6v0067_001.yaml, hash: 'sha256:1eb49d719ccb775c3790fd805d8fb416b9c5219b0f4ab273d9591d3328e741b3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0067_001.markers.yaml, hash: 'sha256:356c6e7891ac0e510ecc6b9f1a3ef7415ec067ce5d2e678866e05c63512feec8'}
+  - {seq: 1, role: markers, filename: assets/KR6v0067_001.markers.yaml, hash: 'sha256:0abe74b70df11e183bbccfff20a99e364b46f45b80dd895b1147c00f724e8d95'}
 table_of_contents:
 - ref:
     seq: 1
@@ -160,9 +160,6 @@ table_of_contents:
   label: 十方善神儀當演
   type: mulu
   level: 1
-hash: sha256:d40bd740b30757edc912489eef0046bb6479b90fb7eed233cba1bab7a04024f6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d8563fe99bed7fc57f61592984a83658ff98b9df0f8c99d7be909643117a2540
 editions:
 - short: ZW
