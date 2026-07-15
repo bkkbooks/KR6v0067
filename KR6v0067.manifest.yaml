@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0067/v1
 canonical_location: https://kanripo.org/bkk/KR6v0067/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大黑天神道場儀
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6v0067_001.yaml, hash: 'sha256:1eb49d719ccb775c3790fd805d8fb416b9c5219b0f4ab273d9591d3328e741b3'}
+  - {seq: 1, filename: KR6v0067_001.yaml, hash: 'sha256:b696cb503fcf5f50d7b8f65ba06ee8967e52c10a743d0ca5636e5881b23ded91'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0067_001.markers.yaml, hash: 'sha256:0abe74b70df11e183bbccfff20a99e364b46f45b80dd895b1147c00f724e8d95'}
+  - {seq: 1, role: markers, filename: assets/KR6v0067_001.markers.yaml, hash: 'sha256:c753e9cff934c2aa0110b8f5e713df785c26a8eb0db64bf91ba84939ebdd9a72'}
 table_of_contents:
 - ref:
     seq: 1
@@ -160,6 +160,9 @@ table_of_contents:
   label: 十方善神儀當演
   type: mulu
   level: 1
-hash: sha256:d8563fe99bed7fc57f61592984a83658ff98b9df0f8c99d7be909643117a2540
+hash: sha256:8007ca07a53bdb62f7f954b8d173b7690ca40ac7134285b6e84e23817b3e2e5d
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
